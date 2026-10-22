@@ -1,0 +1,19 @@
+# runtime data (created by the app)
+data/
+demo/
+*.xlsx
+*.tmp
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# editors / OS
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
+~$*

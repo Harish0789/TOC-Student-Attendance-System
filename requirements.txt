@@ -1,0 +1,5 @@
+# Tkinter, csv and json come with Python. openpyxl is only needed for Excel export
+# (without it the app exports CSV files instead).
+openpyxl>=3.1
+# for running the tests
+pytest>=7
